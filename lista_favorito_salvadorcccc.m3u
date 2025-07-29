@@ -1,0 +1,12 @@
+
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Globo" logo="http://izystc.net:80/images/9d6a87673c5205823f11ee7a717b03a7.png", Globo Inter TV Alto Litoral FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31851.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Globo" logo="http://izystc.net:80/images/9d6a87673c5205823f11ee7a717b03a7.png", Globo Inter TV Alto Litoral HD
+http://eapp11.lat/salvadoreneas10/Se2021/32985.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Globo" logo="http://izystc.net:80/images/9d6a87673c5205823f11ee7a717b03a7.png", Globo RJ FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31805.ts
+#EXTINF:0 type="stream" channelId="2892" group="Canais @ Globo" logo="http://izystc.net:80/images/9d6a87673c5205823f11ee7a717b03a7.png", Globo RJ HD
+http://eapp11.lat/salvadoreneas10/Se2021/217.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Abertos" logo="http://izystc.net:80/images/689230830ab6e84852aeb9300bae57af.png", Band SP FHD
+http://eapp11.lat/salvadoreneas10/Se2021/17.ts
