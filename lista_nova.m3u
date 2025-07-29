@@ -1,0 +1,818 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Globo" logo="http://izystc.net:80/images/9d6a87673c5205823f11ee7a717b03a7.png", Globo Inter TV Alto Litoral FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31851.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Globo" logo="http://izystc.net:80/images/9d6a87673c5205823f11ee7a717b03a7.png", Globo Inter TV Alto Litoral HD
+http://eapp11.lat/salvadoreneas10/Se2021/32985.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Globo" logo="http://izystc.net:80/images/9d6a87673c5205823f11ee7a717b03a7.png", Globo RJ FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31805.ts
+#EXTINF:0 type="stream" channelId="2892" group="Canais @ Globo" logo="http://izystc.net:80/images/9d6a87673c5205823f11ee7a717b03a7.png", Globo RJ HD
+http://eapp11.lat/salvadoreneas10/Se2021/217.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Abertos" logo="http://izystc.net:80/images/689230830ab6e84852aeb9300bae57af.png", Band SP FHD
+http://eapp11.lat/salvadoreneas10/Se2021/17.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Abertos" logo="http://a5.vc/QOy", RecordTV RJ FHD
+http://eapp11.lat/salvadoreneas10/Se2021/39809.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Abertos" logo="http://izystc.net:80/images/0238e071de4bd13e47b32ab654c69a50.png", RecordTV RJ HD
+http://eapp11.lat/salvadoreneas10/Se2021/375.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Abertos" logo="http://izystc.net:80/images/36870f02789f05a0c58e6bfc412890e3.png", RedeTV SP FHD
+http://eapp11.lat/salvadoreneas10/Se2021/379.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Abertos" logo="http://izystc.net:80/images/5b150e7c5ac7f0a540f616bca95ec36f.png", SBT RJ FHD
+http://eapp11.lat/salvadoreneas10/Se2021/39906.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Abertos" logo="http://izystc.net:80/images/5b150e7c5ac7f0a540f616bca95ec36f.png", SBT RJ HD
+http://eapp11.lat/salvadoreneas10/Se2021/39907.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Abertos" logo="http://izystc.net:80/images/5b150e7c5ac7f0a540f616bca95ec36f.png", SBT SP FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31501.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Abertos" logo="http://izystc.net:80/images/5b150e7c5ac7f0a540f616bca95ec36f.png", SBT SP HD
+http://eapp11.lat/salvadoreneas10/Se2021/383.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Globo" logo="http://izystc.net:80/images/9d6a87673c5205823f11ee7a717b03a7.png", Globo SP FHD
+http://eapp11.lat/salvadoreneas10/Se2021/222.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Filmes e Séries" logo="http://izystc.net:80/images/d59ec2022675b2cc68f07b738fbfda2e.png", TNT FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31509.ts
+#EXTINF:0 type="stream" channelId="2900" group="Canais @ Filmes e Séries" logo="http://izystc.net:80/images/d59ec2022675b2cc68f07b738fbfda2e.png", TNT HD
+http://eapp11.lat/salvadoreneas10/Se2021/435.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Documentários" logo="http://izystc.net:80/images/aa3b36122c073f1a3a44cf93f62f4075.png", Animal Planet FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31873.ts
+#EXTINF:0 type="stream" channelId="240" group="Canais @ Documentários" logo="http://izystc.net:80/images/aa3b36122c073f1a3a44cf93f62f4075.png", Animal Planet HD
+http://eapp11.lat/salvadoreneas10/Se2021/6.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Esportes" logo="http://izystc.net:80/images/d3dcecfe8062d430ffb1e7f2868146d5.png", Combate FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31473.ts
+#EXTINF:0 type="stream" channelId="2595" group="Canais @ Esportes" logo="http://izystc.net:80/images/d3dcecfe8062d430ffb1e7f2868146d5.png", Combate HD
+http://eapp11.lat/salvadoreneas10/Se2021/77.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Esportes" logo="http://izystc.net:80/images/68be0a41288165bb1d55d61d0c93853c.png", BandSports FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31816.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Esportes" logo="http://izystc.net:80/images/9a7c2a5a66e8fb46398e2ad39c2e5930.png", SporTV 2 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31861.ts
+#EXTINF:0 type="stream" channelId="2898" group="Canais @ Esportes" logo="http://izystc.net:80/images/9a7c2a5a66e8fb46398e2ad39c2e5930.png", SporTV 2 HD
+http://eapp11.lat/salvadoreneas10/Se2021/393.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Esportes" logo="http://izystc.net:80/images/77dbb25d2f8f30165d4974fd442a8823.png", SporTV 3 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31504.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Esportes" logo="http://izystc.net:80/images/77dbb25d2f8f30165d4974fd442a8823.png", SporTV 3 HD
+http://eapp11.lat/salvadoreneas10/Se2021/396.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Esportes" logo="http://izystc.net:80/images/97fe07f1feeb2f8104f01506d75a45ff.png", SporTV FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31862.ts
+#EXTINF:0 type="stream" channelId="2897" group="Canais @ Esportes" logo="http://izystc.net:80/images/97fe07f1feeb2f8104f01506d75a45ff.png", SporTV HD
+http://eapp11.lat/salvadoreneas10/Se2021/399.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Esportes" logo="http://izystc.net:80/images/97fe07f1feeb2f8104f01506d75a45ff.png", SporTV 4 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/122763.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Esportes" logo="http://izystc.net:80/images/97fe07f1feeb2f8104f01506d75a45ff.png", SporTV 4 HD
+http://eapp11.lat/salvadoreneas10/Se2021/122764.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Premiere" logo="http://izystc.net:80/images/67ae14268fb7afe688c18dd17fe11688.png", Premiere 2 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31850.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Premiere" logo="http://izystc.net:80/images/67ae14268fb7afe688c18dd17fe11688.png", Premiere 2 HD
+http://eapp11.lat/salvadoreneas10/Se2021/340.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Premiere" logo="http://izystc.net:80/images/67ae14268fb7afe688c18dd17fe11688.png", Premiere 3 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31852.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Premiere" logo="http://izystc.net:80/images/67ae14268fb7afe688c18dd17fe11688.png", Premiere 3 HD
+http://eapp11.lat/salvadoreneas10/Se2021/343.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Premiere" logo="http://izystc.net:80/images/67ae14268fb7afe688c18dd17fe11688.png", Premiere 4 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31855.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Premiere" logo="http://izystc.net:80/images/67ae14268fb7afe688c18dd17fe11688.png", Premiere 4 HD
+http://eapp11.lat/salvadoreneas10/Se2021/346.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Premiere" logo="http://izystc.net:80/images/67ae14268fb7afe688c18dd17fe11688.png", Premiere 5 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31856.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Premiere" logo="http://izystc.net:80/images/67ae14268fb7afe688c18dd17fe11688.png", Premiere 5 HD
+http://eapp11.lat/salvadoreneas10/Se2021/349.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Premiere" logo="http://izystc.net:80/images/67ae14268fb7afe688c18dd17fe11688.png", Premiere 6 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31499.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Premiere" logo="http://izystc.net:80/images/67ae14268fb7afe688c18dd17fe11688.png", Premiere 6 HD
+http://eapp11.lat/salvadoreneas10/Se2021/352.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Premiere" logo="http://izystc.net:80/images/67ae14268fb7afe688c18dd17fe11688.png", Premiere 7 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31500.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Premiere" logo="http://izystc.net:80/images/67ae14268fb7afe688c18dd17fe11688.png", Premiere 7 HD
+http://eapp11.lat/salvadoreneas10/Se2021/355.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Premiere" logo="http://izystc.net:80/images/67ae14268fb7afe688c18dd17fe11688.png", Premiere Clubes FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31860.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Premiere" logo="http://izystc.net:80/images/67ae14268fb7afe688c18dd17fe11688.png", Premiere Clubes HD
+http://eapp11.lat/salvadoreneas10/Se2021/358.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Premiere" logo="http://izystc.net:80/images/67ae14268fb7afe688c18dd17fe11688.png", Premiere 8 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/110295.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Premiere" logo="http://izystc.net:80/images/67ae14268fb7afe688c18dd17fe11688.png", Premiere 8 HD
+http://eapp11.lat/salvadoreneas10/Se2021/110296.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Prime Vídeo" logo="http://izystc.net:80/images/9a2901b02f405b562056854b5ab87abb.jpg", Copa do Brasil 1 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/76120.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Prime Vídeo" logo="http://izystc.net:80/images/9a2901b02f405b562056854b5ab87abb.jpg", Copa do Brasil 1 HD
+http://eapp11.lat/salvadoreneas10/Se2021/76121.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Prime Vídeo" logo="https://i.imgur.com/B9QR49f.jpg", Copa do Brasil 2 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/76123.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Prime Vídeo" logo="https://i.imgur.com/B9QR49f.jpg", Copa do Brasil 2 HD
+http://eapp11.lat/salvadoreneas10/Se2021/76124.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Prime Vídeo", Copa do Brasil 3 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/96218.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Prime Vídeo" logo="http://izystc.net:80/images/bcfc063fbe635e30555214ecfd0e8a76.png", Copa do Brasil 3 HD
+http://eapp11.lat/salvadoreneas10/Se2021/96219.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ ESPN Sports" logo="http://izystc.net:80/images/9d3d63d749e360856cae2aa1a218b2fc.png", ESPN 2 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31840.ts
+#EXTINF:0 type="stream" channelId="3746" group="Canais @ ESPN Sports" logo="http://izystc.net:80/images/9d3d63d749e360856cae2aa1a218b2fc.png", ESPN 2 HD
+http://eapp11.lat/salvadoreneas10/Se2021/153.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ ESPN Sports" logo="http://izystc.net:80/images/47bcad70f8b1ea8a302babf021edd80f.png", ESPN 3 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31817.ts
+#EXTINF:0 type="stream" channelId="357" group="Canais @ ESPN Sports" logo="http://izystc.net:80/images/47bcad70f8b1ea8a302babf021edd80f.png", ESPN 3 HD
+http://eapp11.lat/salvadoreneas10/Se2021/145.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ ESPN Sports" logo="http://izystc.net:80/images/4e10ac5da1eb09c5189999f42f083e19.png", ESPN 4 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31846.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ ESPN Sports" logo="http://izystc.net:80/images/4e10ac5da1eb09c5189999f42f083e19.png", ESPN 4 HD
+http://eapp11.lat/salvadoreneas10/Se2021/180.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ ESPN Sports" logo="http://izystc.net:80/images/1c9373ac044d859f33d2d8a846c70569.png", ESPN 6 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31832.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ ESPN Sports" logo="http://izystc.net:80/images/1c9373ac044d859f33d2d8a846c70569.png", ESPN 6 HD
+http://eapp11.lat/salvadoreneas10/Se2021/150.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ ESPN Sports" logo="http://izystc.net:80/images/b64622c87c2bbf1f8d8b083fa15d3249.png", ESPN FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31820.ts
+#EXTINF:0 type="stream" channelId="1263" group="Canais @ ESPN Sports" logo="http://izystc.net:80/images/b64622c87c2bbf1f8d8b083fa15d3249.png", ESPN HD
+http://eapp11.lat/salvadoreneas10/Se2021/148.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ ESPN Sports" logo="http://izystc.net:80/images/007649b5e40fff4fc2e3818844074137.png", ESPN 5 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31842.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ ESPN Sports" logo="http://izystc.net:80/images/007649b5e40fff4fc2e3818844074137.png", ESPN 5 HD
+http://eapp11.lat/salvadoreneas10/Se2021/177.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Paramount +" logo="http://izystc.net:80/images/a2297e25c35601bed705a676d70e41df.png", Paramount + 1 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/32038.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Paramount +" logo="http://izystc.net:80/images/a2297e25c35601bed705a676d70e41df.png", Paramount + 1 HD
+http://eapp11.lat/salvadoreneas10/Se2021/32039.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Paramount +" logo="http://izystc.net:80/images/a2297e25c35601bed705a676d70e41df.png", Paramount + 2 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/32041.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Paramount +" logo="http://izystc.net:80/images/a2297e25c35601bed705a676d70e41df.png", Paramount + 2 HD
+http://eapp11.lat/salvadoreneas10/Se2021/32042.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Paramount +" logo="http://izystc.net:80/images/a2297e25c35601bed705a676d70e41df.png", Paramount + 3 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/32044.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Paramount +" logo="http://izystc.net:80/images/a2297e25c35601bed705a676d70e41df.png", Paramount + 3 HD
+http://eapp11.lat/salvadoreneas10/Se2021/32045.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Paramount +" logo="http://izystc.net:80/images/a2297e25c35601bed705a676d70e41df.png", Paramount + 4 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/32047.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Paramount +" logo="http://izystc.net:80/images/a2297e25c35601bed705a676d70e41df.png", Paramount + 4 HD
+http://eapp11.lat/salvadoreneas10/Se2021/32048.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ HBO Max" logo="http://izystc.net:80/images/0f55e4fb1302fc97e505afb4101408e2.png", HBO Max 1 HD
+http://eapp11.lat/salvadoreneas10/Se2021/131.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ HBO Max" logo="http://izystc.net:80/images/0f55e4fb1302fc97e505afb4101408e2.png", HBO Max 2 HD
+http://eapp11.lat/salvadoreneas10/Se2021/133.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ HBO Max" logo="http://izystc.net:80/images/0f55e4fb1302fc97e505afb4101408e2.png", HBO Max 3 HD
+http://eapp11.lat/salvadoreneas10/Se2021/135.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ HBO Max" logo="http://izystc.net:80/images/0f55e4fb1302fc97e505afb4101408e2.png", HBO Max 4 HD
+http://eapp11.lat/salvadoreneas10/Se2021/137.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ HBO Max" logo="http://izystc.net:80/images/0f55e4fb1302fc97e505afb4101408e2.png", HBO Max 5 HD
+http://eapp11.lat/salvadoreneas10/Se2021/139.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ HBO Max" logo="http://izystc.net:80/images/0f55e4fb1302fc97e505afb4101408e2.png", HBO Max 6 HD
+http://eapp11.lat/salvadoreneas10/Se2021/142.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/tWbBBCQ.jpg", Brasileirao Serie C 1 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/80449.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://izystc.net:80/images/d71a6a98c5c853503ec304c5f182f9b3.jpg", Brasileirao Serie C 1 HD
+http://eapp11.lat/salvadoreneas10/Se2021/80450.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/tWbBBCQ.jpg", Brasileirao Serie C 2 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/80452.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/tWbBBCQ.jpg", Brasileirao Serie C 2 HD
+http://eapp11.lat/salvadoreneas10/Se2021/80453.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/tWbBBCQ.jpg", Brasileirao Serie C 3 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/80455.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/tWbBBCQ.jpg", Brasileirao Serie C 3 HD
+http://eapp11.lat/salvadoreneas10/Se2021/80456.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png", Campeonato Carioca 1 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/32891.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png", Campeonato Carioca 1 HD
+http://eapp11.lat/salvadoreneas10/Se2021/32893.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png", Campeonato Carioca 2 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/32895.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png", Campeonato Carioca 2 HD
+http://eapp11.lat/salvadoreneas10/Se2021/32897.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/dUDeaZS.jpg", Campeonato Catarinense 4 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/74917.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://izystc.net:80/images/7c28af49d4e840b8e55f03c6f78f6018.jpg", Campeonato Catarinense 4 HD
+http://eapp11.lat/salvadoreneas10/Se2021/74918.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/6X0oiNy.jpg", Campeonato Paranaense 1 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/74519.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/6X0oiNy.jpg", Campeonato Paranaense 1 HD
+http://eapp11.lat/salvadoreneas10/Se2021/74520.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/6X0oiNy.jpg", Campeonato Paranaense 2 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/74522.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/6X0oiNy.jpg", Campeonato Paranaense 2 HD
+http://eapp11.lat/salvadoreneas10/Se2021/74523.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/6X0oiNy.jpg", Campeonato Paranaense 3 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/74525.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/6X0oiNy.jpg", Campeonato Paranaense 3 HD
+http://eapp11.lat/salvadoreneas10/Se2021/74526.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/nc7yBlD.jpg", Campeonato Paulista FHD
+http://eapp11.lat/salvadoreneas10/Se2021/74914.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/nc7yBlD.jpg", Campeonato Paulista HD
+http://eapp11.lat/salvadoreneas10/Se2021/74915.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/dUDeaZS.jpg", Copa Catarinense 1 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/74512.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://izystc.net:80/images/7c28af49d4e840b8e55f03c6f78f6018.jpg", Copa Catarinense 1 HD
+http://eapp11.lat/salvadoreneas10/Se2021/82.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/dUDeaZS.jpg", Copa Catarinense 2 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/74515.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://izystc.net:80/images/7c28af49d4e840b8e55f03c6f78f6018.jpg", Copa Catarinense 2 HD
+http://eapp11.lat/salvadoreneas10/Se2021/84.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/dUDeaZS.jpg", Copa Catarinense 3 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/74517.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://izystc.net:80/images/7c28af49d4e840b8e55f03c6f78f6018.jpg", Copa Catarinense 3 HD
+http://eapp11.lat/salvadoreneas10/Se2021/83.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://static.izystc.net/logos/canais/copanordeste.png", Copa do Nordeste 1 HD
+http://eapp11.lat/salvadoreneas10/Se2021/87.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://static.izystc.net/logos/canais/copanordeste.png", Copa do Nordeste 2 HD
+http://eapp11.lat/salvadoreneas10/Se2021/88.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://static.izystc.net/logos/canais/copanordeste.png", Copa do Nordeste 3 HD
+http://eapp11.lat/salvadoreneas10/Se2021/33115.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://static.izystc.net/logos/canais/copanordeste.png", Copa do Nordeste 4 HD
+http://eapp11.lat/salvadoreneas10/Se2021/33116.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://static.izystc.net/logos/canais/copanordeste.png", Copa do Nordeste 5 HD
+http://eapp11.lat/salvadoreneas10/Se2021/33117.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://static.izystc.net/logos/canais/copanordeste.png", Copa do Nordeste 6 HD
+http://eapp11.lat/salvadoreneas10/Se2021/33118.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://static.izystc.net/logos/canais/copanordeste.png", Copa do Nordeste 7 HD
+http://eapp11.lat/salvadoreneas10/Se2021/33119.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://iv.pe/276", Copa Libertadores HD
+http://eapp11.lat/salvadoreneas10/Se2021/14074.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://izystc.net:80/images/5c88eb99cbbdda04722965d2a6ca8255.png", DAZN 1 HD
+http://eapp11.lat/salvadoreneas10/Se2021/94.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://izystc.net:80/images/5c88eb99cbbdda04722965d2a6ca8255.png", DAZN 2 HD
+http://eapp11.lat/salvadoreneas10/Se2021/32054.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://izystc.net:80/images/5c88eb99cbbdda04722965d2a6ca8255.png", DAZN 3 HD
+http://eapp11.lat/salvadoreneas10/Se2021/32055.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://izystc.net:80/images/5c88eb99cbbdda04722965d2a6ca8255.png", DAZN 4 HD
+http://eapp11.lat/salvadoreneas10/Se2021/32056.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://a5.vc/AJf", FlaTV HD
+http://eapp11.lat/salvadoreneas10/Se2021/31517.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/P5gcR4V.jpg", FluTV HD
+http://eapp11.lat/salvadoreneas10/Se2021/31640.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View", Live Casimito Brasileirao FHD
+http://eapp11.lat/salvadoreneas10/Se2021/81576.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View", Live Casimito Brasileirao HD
+http://eapp11.lat/salvadoreneas10/Se2021/81577.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://imgur.com/a/Egct9qz", O Tempo Sports FHD
+http://eapp11.lat/salvadoreneas10/Se2021/74911.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://imgur.com/a/Egct9qz", O Tempo Sports HD
+http://eapp11.lat/salvadoreneas10/Se2021/74912.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/nc7yBlD.jpg", Paulistao 2 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31887.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View", UFC Fight Pass FHD
+http://eapp11.lat/salvadoreneas10/Se2021/94057.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View", UFC Fight Pass HD
+http://eapp11.lat/salvadoreneas10/Se2021/94058.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View", DAZN 1 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/94157.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View", DAZN 2 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/94159.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View", Nosso Futebol 1 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/94164.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View", Nosso Futebol 1 HD
+http://eapp11.lat/salvadoreneas10/Se2021/94165.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View", Nosso Futebol 2 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/94171.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View", Nosso Futebol 2 HD
+http://eapp11.lat/salvadoreneas10/Se2021/94172.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View", Nosso Futebol 3 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/94179.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View", Nosso Futebol 3 HD
+http://eapp11.lat/salvadoreneas10/Se2021/94181.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View", Nosso Futebol 4 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/94184.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View", Nosso Futebol 4 HD
+http://eapp11.lat/salvadoreneas10/Se2021/94186.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View", CazeTV
+http://eapp11.lat/salvadoreneas10/Se2021/94194.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View", OneFootball 1 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/95010.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View", OneFootball 1 HD
+http://eapp11.lat/salvadoreneas10/Se2021/95011.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/nc7yBlD.jpg", Paulistao 2 HD
+http://eapp11.lat/salvadoreneas10/Se2021/170.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Disney +", Disney + 1 HD
+http://eapp11.lat/salvadoreneas10/Se2021/41850.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Disney +", Disney + 2 HD
+http://eapp11.lat/salvadoreneas10/Se2021/65899.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Disney +", Disney + 3 HD
+http://eapp11.lat/salvadoreneas10/Se2021/65900.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Disney +", Disney + 4 HD
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Globo" logo="http://izystc.net:80/images/9d6a87673c5205823f11ee7a717b03a7.png", Globo Inter TV Alto Litoral FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31851.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Globo" logo="http://izystc.net:80/images/9d6a87673c5205823f11ee7a717b03a7.png", Globo Inter TV Alto Litoral HD
+http://eapp11.lat/salvadoreneas10/Se2021/32985.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Globo" logo="http://izystc.net:80/images/9d6a87673c5205823f11ee7a717b03a7.png", Globo RJ FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31805.ts
+#EXTINF:0 type="stream" channelId="2892" group="Canais @ Globo" logo="http://izystc.net:80/images/9d6a87673c5205823f11ee7a717b03a7.png", Globo RJ HD
+http://eapp11.lat/salvadoreneas10/Se2021/217.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Abertos" logo="http://izystc.net:80/images/689230830ab6e84852aeb9300bae57af.png", Band SP FHD
+http://eapp11.lat/salvadoreneas10/Se2021/17.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Abertos" logo="http://a5.vc/QOy", RecordTV RJ FHD
+http://eapp11.lat/salvadoreneas10/Se2021/39809.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Abertos" logo="http://izystc.net:80/images/0238e071de4bd13e47b32ab654c69a50.png", RecordTV RJ HD
+http://eapp11.lat/salvadoreneas10/Se2021/375.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Abertos" logo="http://izystc.net:80/images/36870f02789f05a0c58e6bfc412890e3.png", RedeTV SP FHD
+http://eapp11.lat/salvadoreneas10/Se2021/379.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Abertos" logo="http://izystc.net:80/images/5b150e7c5ac7f0a540f616bca95ec36f.png", SBT RJ FHD
+http://eapp11.lat/salvadoreneas10/Se2021/39906.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Abertos" logo="http://izystc.net:80/images/5b150e7c5ac7f0a540f616bca95ec36f.png", SBT RJ HD
+http://eapp11.lat/salvadoreneas10/Se2021/39907.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Abertos" logo="http://izystc.net:80/images/5b150e7c5ac7f0a540f616bca95ec36f.png", SBT SP FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31501.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Abertos" logo="http://izystc.net:80/images/5b150e7c5ac7f0a540f616bca95ec36f.png", SBT SP HD
+http://eapp11.lat/salvadoreneas10/Se2021/383.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Globo" logo="http://izystc.net:80/images/9d6a87673c5205823f11ee7a717b03a7.png", Globo SP FHD
+http://eapp11.lat/salvadoreneas10/Se2021/222.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Filmes e Séries" logo="http://izystc.net:80/images/d59ec2022675b2cc68f07b738fbfda2e.png", TNT FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31509.ts
+#EXTINF:0 type="stream" channelId="2900" group="Canais @ Filmes e Séries" logo="http://izystc.net:80/images/d59ec2022675b2cc68f07b738fbfda2e.png", TNT HD
+http://eapp11.lat/salvadoreneas10/Se2021/435.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Documentários" logo="http://izystc.net:80/images/aa3b36122c073f1a3a44cf93f62f4075.png", Animal Planet FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31873.ts
+#EXTINF:0 type="stream" channelId="240" group="Canais @ Documentários" logo="http://izystc.net:80/images/aa3b36122c073f1a3a44cf93f62f4075.png", Animal Planet HD
+http://eapp11.lat/salvadoreneas10/Se2021/6.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Esportes" logo="http://izystc.net:80/images/d3dcecfe8062d430ffb1e7f2868146d5.png", Combate FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31473.ts
+#EXTINF:0 type="stream" channelId="2595" group="Canais @ Esportes" logo="http://izystc.net:80/images/d3dcecfe8062d430ffb1e7f2868146d5.png", Combate HD
+http://eapp11.lat/salvadoreneas10/Se2021/77.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Esportes" logo="http://izystc.net:80/images/68be0a41288165bb1d55d61d0c93853c.png", BandSports FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31816.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Esportes" logo="http://izystc.net:80/images/9a7c2a5a66e8fb46398e2ad39c2e5930.png", SporTV 2 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31861.ts
+#EXTINF:0 type="stream" channelId="2898" group="Canais @ Esportes" logo="http://izystc.net:80/images/9a7c2a5a66e8fb46398e2ad39c2e5930.png", SporTV 2 HD
+http://eapp11.lat/salvadoreneas10/Se2021/393.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Esportes" logo="http://izystc.net:80/images/77dbb25d2f8f30165d4974fd442a8823.png", SporTV 3 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31504.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Esportes" logo="http://izystc.net:80/images/77dbb25d2f8f30165d4974fd442a8823.png", SporTV 3 HD
+http://eapp11.lat/salvadoreneas10/Se2021/396.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Esportes" logo="http://izystc.net:80/images/97fe07f1feeb2f8104f01506d75a45ff.png", SporTV FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31862.ts
+#EXTINF:0 type="stream" channelId="2897" group="Canais @ Esportes" logo="http://izystc.net:80/images/97fe07f1feeb2f8104f01506d75a45ff.png", SporTV HD
+http://eapp11.lat/salvadoreneas10/Se2021/399.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Esportes" logo="http://izystc.net:80/images/97fe07f1feeb2f8104f01506d75a45ff.png", SporTV 4 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/122763.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Esportes" logo="http://izystc.net:80/images/97fe07f1feeb2f8104f01506d75a45ff.png", SporTV 4 HD
+http://eapp11.lat/salvadoreneas10/Se2021/122764.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Premiere" logo="http://izystc.net:80/images/67ae14268fb7afe688c18dd17fe11688.png", Premiere 2 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31850.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Premiere" logo="http://izystc.net:80/images/67ae14268fb7afe688c18dd17fe11688.png", Premiere 2 HD
+http://eapp11.lat/salvadoreneas10/Se2021/340.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Premiere" logo="http://izystc.net:80/images/67ae14268fb7afe688c18dd17fe11688.png", Premiere 3 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31852.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Premiere" logo="http://izystc.net:80/images/67ae14268fb7afe688c18dd17fe11688.png", Premiere 3 HD
+http://eapp11.lat/salvadoreneas10/Se2021/343.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Premiere" logo="http://izystc.net:80/images/67ae14268fb7afe688c18dd17fe11688.png", Premiere 4 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31855.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Premiere" logo="http://izystc.net:80/images/67ae14268fb7afe688c18dd17fe11688.png", Premiere 4 HD
+http://eapp11.lat/salvadoreneas10/Se2021/346.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Premiere" logo="http://izystc.net:80/images/67ae14268fb7afe688c18dd17fe11688.png", Premiere 5 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31856.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Premiere" logo="http://izystc.net:80/images/67ae14268fb7afe688c18dd17fe11688.png", Premiere 5 HD
+http://eapp11.lat/salvadoreneas10/Se2021/349.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Premiere" logo="http://izystc.net:80/images/67ae14268fb7afe688c18dd17fe11688.png", Premiere 6 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31499.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Premiere" logo="http://izystc.net:80/images/67ae14268fb7afe688c18dd17fe11688.png", Premiere 6 HD
+http://eapp11.lat/salvadoreneas10/Se2021/352.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Premiere" logo="http://izystc.net:80/images/67ae14268fb7afe688c18dd17fe11688.png", Premiere 7 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31500.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Premiere" logo="http://izystc.net:80/images/67ae14268fb7afe688c18dd17fe11688.png", Premiere 7 HD
+http://eapp11.lat/salvadoreneas10/Se2021/355.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Premiere" logo="http://izystc.net:80/images/67ae14268fb7afe688c18dd17fe11688.png", Premiere Clubes FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31860.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Premiere" logo="http://izystc.net:80/images/67ae14268fb7afe688c18dd17fe11688.png", Premiere Clubes HD
+http://eapp11.lat/salvadoreneas10/Se2021/358.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Premiere" logo="http://izystc.net:80/images/67ae14268fb7afe688c18dd17fe11688.png", Premiere 8 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/110295.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Premiere" logo="http://izystc.net:80/images/67ae14268fb7afe688c18dd17fe11688.png", Premiere 8 HD
+http://eapp11.lat/salvadoreneas10/Se2021/110296.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Prime Vídeo" logo="http://izystc.net:80/images/9a2901b02f405b562056854b5ab87abb.jpg", Copa do Brasil 1 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/76120.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Prime Vídeo" logo="http://izystc.net:80/images/9a2901b02f405b562056854b5ab87abb.jpg", Copa do Brasil 1 HD
+http://eapp11.lat/salvadoreneas10/Se2021/76121.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Prime Vídeo" logo="https://i.imgur.com/B9QR49f.jpg", Copa do Brasil 2 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/76123.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Prime Vídeo" logo="https://i.imgur.com/B9QR49f.jpg", Copa do Brasil 2 HD
+http://eapp11.lat/salvadoreneas10/Se2021/76124.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Prime Vídeo", Copa do Brasil 3 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/96218.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Prime Vídeo" logo="http://izystc.net:80/images/bcfc063fbe635e30555214ecfd0e8a76.png", Copa do Brasil 3 HD
+http://eapp11.lat/salvadoreneas10/Se2021/96219.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ ESPN Sports" logo="http://izystc.net:80/images/9d3d63d749e360856cae2aa1a218b2fc.png", ESPN 2 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31840.ts
+#EXTINF:0 type="stream" channelId="3746" group="Canais @ ESPN Sports" logo="http://izystc.net:80/images/9d3d63d749e360856cae2aa1a218b2fc.png", ESPN 2 HD
+http://eapp11.lat/salvadoreneas10/Se2021/153.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ ESPN Sports" logo="http://izystc.net:80/images/47bcad70f8b1ea8a302babf021edd80f.png", ESPN 3 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31817.ts
+#EXTINF:0 type="stream" channelId="357" group="Canais @ ESPN Sports" logo="http://izystc.net:80/images/47bcad70f8b1ea8a302babf021edd80f.png", ESPN 3 HD
+http://eapp11.lat/salvadoreneas10/Se2021/145.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ ESPN Sports" logo="http://izystc.net:80/images/4e10ac5da1eb09c5189999f42f083e19.png", ESPN 4 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31846.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ ESPN Sports" logo="http://izystc.net:80/images/4e10ac5da1eb09c5189999f42f083e19.png", ESPN 4 HD
+http://eapp11.lat/salvadoreneas10/Se2021/180.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ ESPN Sports" logo="http://izystc.net:80/images/1c9373ac044d859f33d2d8a846c70569.png", ESPN 6 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31832.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ ESPN Sports" logo="http://izystc.net:80/images/1c9373ac044d859f33d2d8a846c70569.png", ESPN 6 HD
+http://eapp11.lat/salvadoreneas10/Se2021/150.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ ESPN Sports" logo="http://izystc.net:80/images/b64622c87c2bbf1f8d8b083fa15d3249.png", ESPN FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31820.ts
+#EXTINF:0 type="stream" channelId="1263" group="Canais @ ESPN Sports" logo="http://izystc.net:80/images/b64622c87c2bbf1f8d8b083fa15d3249.png", ESPN HD
+http://eapp11.lat/salvadoreneas10/Se2021/148.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ ESPN Sports" logo="http://izystc.net:80/images/007649b5e40fff4fc2e3818844074137.png", ESPN 5 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31842.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ ESPN Sports" logo="http://izystc.net:80/images/007649b5e40fff4fc2e3818844074137.png", ESPN 5 HD
+http://eapp11.lat/salvadoreneas10/Se2021/177.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Paramount +" logo="http://izystc.net:80/images/a2297e25c35601bed705a676d70e41df.png", Paramount + 1 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/32038.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Paramount +" logo="http://izystc.net:80/images/a2297e25c35601bed705a676d70e41df.png", Paramount + 1 HD
+http://eapp11.lat/salvadoreneas10/Se2021/32039.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Paramount +" logo="http://izystc.net:80/images/a2297e25c35601bed705a676d70e41df.png", Paramount + 2 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/32041.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Paramount +" logo="http://izystc.net:80/images/a2297e25c35601bed705a676d70e41df.png", Paramount + 2 HD
+http://eapp11.lat/salvadoreneas10/Se2021/32042.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Paramount +" logo="http://izystc.net:80/images/a2297e25c35601bed705a676d70e41df.png", Paramount + 3 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/32044.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Paramount +" logo="http://izystc.net:80/images/a2297e25c35601bed705a676d70e41df.png", Paramount + 3 HD
+http://eapp11.lat/salvadoreneas10/Se2021/32045.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Paramount +" logo="http://izystc.net:80/images/a2297e25c35601bed705a676d70e41df.png", Paramount + 4 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/32047.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Paramount +" logo="http://izystc.net:80/images/a2297e25c35601bed705a676d70e41df.png", Paramount + 4 HD
+http://eapp11.lat/salvadoreneas10/Se2021/32048.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ HBO Max" logo="http://izystc.net:80/images/0f55e4fb1302fc97e505afb4101408e2.png", HBO Max 1 HD
+http://eapp11.lat/salvadoreneas10/Se2021/131.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ HBO Max" logo="http://izystc.net:80/images/0f55e4fb1302fc97e505afb4101408e2.png", HBO Max 2 HD
+http://eapp11.lat/salvadoreneas10/Se2021/133.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ HBO Max" logo="http://izystc.net:80/images/0f55e4fb1302fc97e505afb4101408e2.png", HBO Max 3 HD
+http://eapp11.lat/salvadoreneas10/Se2021/135.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ HBO Max" logo="http://izystc.net:80/images/0f55e4fb1302fc97e505afb4101408e2.png", HBO Max 4 HD
+http://eapp11.lat/salvadoreneas10/Se2021/137.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ HBO Max" logo="http://izystc.net:80/images/0f55e4fb1302fc97e505afb4101408e2.png", HBO Max 5 HD
+http://eapp11.lat/salvadoreneas10/Se2021/139.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ HBO Max" logo="http://izystc.net:80/images/0f55e4fb1302fc97e505afb4101408e2.png", HBO Max 6 HD
+http://eapp11.lat/salvadoreneas10/Se2021/142.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/tWbBBCQ.jpg", Brasileirao Serie C 1 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/80449.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://izystc.net:80/images/d71a6a98c5c853503ec304c5f182f9b3.jpg", Brasileirao Serie C 1 HD
+http://eapp11.lat/salvadoreneas10/Se2021/80450.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/tWbBBCQ.jpg", Brasileirao Serie C 2 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/80452.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/tWbBBCQ.jpg", Brasileirao Serie C 2 HD
+http://eapp11.lat/salvadoreneas10/Se2021/80453.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/tWbBBCQ.jpg", Brasileirao Serie C 3 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/80455.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/tWbBBCQ.jpg", Brasileirao Serie C 3 HD
+http://eapp11.lat/salvadoreneas10/Se2021/80456.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png", Campeonato Carioca 1 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/32891.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png", Campeonato Carioca 1 HD
+http://eapp11.lat/salvadoreneas10/Se2021/32893.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png", Campeonato Carioca 2 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/32895.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png", Campeonato Carioca 2 HD
+http://eapp11.lat/salvadoreneas10/Se2021/32897.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/dUDeaZS.jpg", Campeonato Catarinense 4 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/74917.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://izystc.net:80/images/7c28af49d4e840b8e55f03c6f78f6018.jpg", Campeonato Catarinense 4 HD
+http://eapp11.lat/salvadoreneas10/Se2021/74918.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/6X0oiNy.jpg", Campeonato Paranaense 1 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/74519.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/6X0oiNy.jpg", Campeonato Paranaense 1 HD
+http://eapp11.lat/salvadoreneas10/Se2021/74520.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/6X0oiNy.jpg", Campeonato Paranaense 2 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/74522.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/6X0oiNy.jpg", Campeonato Paranaense 2 HD
+http://eapp11.lat/salvadoreneas10/Se2021/74523.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/6X0oiNy.jpg", Campeonato Paranaense 3 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/74525.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/6X0oiNy.jpg", Campeonato Paranaense 3 HD
+http://eapp11.lat/salvadoreneas10/Se2021/74526.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/nc7yBlD.jpg", Campeonato Paulista FHD
+http://eapp11.lat/salvadoreneas10/Se2021/74914.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/nc7yBlD.jpg", Campeonato Paulista HD
+http://eapp11.lat/salvadoreneas10/Se2021/74915.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/dUDeaZS.jpg", Copa Catarinense 1 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/74512.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://izystc.net:80/images/7c28af49d4e840b8e55f03c6f78f6018.jpg", Copa Catarinense 1 HD
+http://eapp11.lat/salvadoreneas10/Se2021/82.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/dUDeaZS.jpg", Copa Catarinense 2 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/74515.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://izystc.net:80/images/7c28af49d4e840b8e55f03c6f78f6018.jpg", Copa Catarinense 2 HD
+http://eapp11.lat/salvadoreneas10/Se2021/84.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/dUDeaZS.jpg", Copa Catarinense 3 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/74517.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://izystc.net:80/images/7c28af49d4e840b8e55f03c6f78f6018.jpg", Copa Catarinense 3 HD
+http://eapp11.lat/salvadoreneas10/Se2021/83.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://static.izystc.net/logos/canais/copanordeste.png", Copa do Nordeste 1 HD
+http://eapp11.lat/salvadoreneas10/Se2021/87.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://static.izystc.net/logos/canais/copanordeste.png", Copa do Nordeste 2 HD
+http://eapp11.lat/salvadoreneas10/Se2021/88.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://static.izystc.net/logos/canais/copanordeste.png", Copa do Nordeste 3 HD
+http://eapp11.lat/salvadoreneas10/Se2021/33115.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://static.izystc.net/logos/canais/copanordeste.png", Copa do Nordeste 4 HD
+http://eapp11.lat/salvadoreneas10/Se2021/33116.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://static.izystc.net/logos/canais/copanordeste.png", Copa do Nordeste 5 HD
+http://eapp11.lat/salvadoreneas10/Se2021/33117.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://static.izystc.net/logos/canais/copanordeste.png", Copa do Nordeste 6 HD
+http://eapp11.lat/salvadoreneas10/Se2021/33118.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://static.izystc.net/logos/canais/copanordeste.png", Copa do Nordeste 7 HD
+http://eapp11.lat/salvadoreneas10/Se2021/33119.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://iv.pe/276", Copa Libertadores HD
+http://eapp11.lat/salvadoreneas10/Se2021/14074.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://izystc.net:80/images/5c88eb99cbbdda04722965d2a6ca8255.png", DAZN 1 HD
+http://eapp11.lat/salvadoreneas10/Se2021/94.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://izystc.net:80/images/5c88eb99cbbdda04722965d2a6ca8255.png", DAZN 2 HD
+http://eapp11.lat/salvadoreneas10/Se2021/32054.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://izystc.net:80/images/5c88eb99cbbdda04722965d2a6ca8255.png", DAZN 3 HD
+http://eapp11.lat/salvadoreneas10/Se2021/32055.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://izystc.net:80/images/5c88eb99cbbdda04722965d2a6ca8255.png", DAZN 4 HD
+http://eapp11.lat/salvadoreneas10/Se2021/32056.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="http://a5.vc/AJf", FlaTV HD
+http://eapp11.lat/salvadoreneas10/Se2021/31517.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/P5gcR4V.jpg", FluTV HD
+http://eapp11.lat/salvadoreneas10/Se2021/31640.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View", Live Casimito Brasileirao FHD
+http://eapp11.lat/salvadoreneas10/Se2021/81576.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View", Live Casimito Brasileirao HD
+http://eapp11.lat/salvadoreneas10/Se2021/81577.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://imgur.com/a/Egct9qz", O Tempo Sports FHD
+http://eapp11.lat/salvadoreneas10/Se2021/74911.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://imgur.com/a/Egct9qz", O Tempo Sports HD
+http://eapp11.lat/salvadoreneas10/Se2021/74912.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/nc7yBlD.jpg", Paulistao 2 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/31887.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View", UFC Fight Pass FHD
+http://eapp11.lat/salvadoreneas10/Se2021/94057.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View", UFC Fight Pass HD
+http://eapp11.lat/salvadoreneas10/Se2021/94058.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View", DAZN 1 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/94157.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View", DAZN 2 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/94159.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View", Nosso Futebol 1 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/94164.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View", Nosso Futebol 1 HD
+http://eapp11.lat/salvadoreneas10/Se2021/94165.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View", Nosso Futebol 2 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/94171.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View", Nosso Futebol 2 HD
+http://eapp11.lat/salvadoreneas10/Se2021/94172.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View", Nosso Futebol 3 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/94179.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View", Nosso Futebol 3 HD
+http://eapp11.lat/salvadoreneas10/Se2021/94181.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View", Nosso Futebol 4 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/94184.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View", Nosso Futebol 4 HD
+http://eapp11.lat/salvadoreneas10/Se2021/94186.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View", CazeTV
+http://eapp11.lat/salvadoreneas10/Se2021/94194.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View", OneFootball 1 FHD
+http://eapp11.lat/salvadoreneas10/Se2021/95010.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View", OneFootball 1 HD
+http://eapp11.lat/salvadoreneas10/Se2021/95011.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Pay-Per-View" logo="https://i.imgur.com/nc7yBlD.jpg", Paulistao 2 HD
+http://eapp11.lat/salvadoreneas10/Se2021/170.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Disney +", Disney + 1 HD
+http://eapp11.lat/salvadoreneas10/Se2021/41850.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Disney +", Disney + 2 HD
+http://eapp11.lat/salvadoreneas10/Se2021/65899.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Disney +", Disney + 3 HD
+http://eapp11.lat/salvadoreneas10/Se2021/65900.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Disney +", Disney + 4 HD
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", Playboy 4K
+http://eapp11.lat:80/salvadoreneas10/Se2021/41462.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", XXX: Playboy FHD
+http://eapp11.lat:80/salvadoreneas10/Se2021/32025.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", XXX: Playboy HD
+http://eapp11.lat:80/salvadoreneas10/Se2021/466.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", XXX: Sexy Hot FHD (H265)
+http://eapp11.lat:80/salvadoreneas10/Se2021/471.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", XXX: Sexy Hot HD
+http://eapp11.lat:80/salvadoreneas10/Se2021/472.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 33]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137164.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 32]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137163.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 31]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137162.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 30]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137161.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 29]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137160.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 28]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137159.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 27]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137158.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 26]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137157.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 25]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137156.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 24]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137155.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 23]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137154.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 22]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137153.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 21]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137152.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 20]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137151.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 19]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137150.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 18]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137149.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 17]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137148.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 16]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137147.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Tweetney [Pack 01]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137116.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Teste de Fudelidade [Pack 03]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137115.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Teste de Fudelidade [Pack 02]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137114.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Teste de Fudelidade [Pack 01]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137113.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Pornhub Yinyleon
+http://eapp11.lat:80/salvadoreneas10/Se2021/137112.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] MissaX [Pack 09]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137111.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] MissaX [Pack 08]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137110.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] MissaX [Pack 07]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137109.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] MissaX [Pack 06]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137108.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] MissaX [Pack 05]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137107.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] MissaX [Pack 04]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137106.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] MissaX [Pack 03]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137105.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] MissaX [Pack 02]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137104.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] MissaX [Pack 01]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137103.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Vamos Experimentar o Anal [Pack 03]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137102.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Vamos Experimentar o Anal [Pack 02]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137101.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Vamos Experimentar o Anal [Pack 01]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137100.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Interessantes
+http://eapp11.lat:80/salvadoreneas10/Se2021/137099.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Homossexual Masculino [Pack 02]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137098.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Homossexual Masculino [Pack 01]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137097.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Estudos de Sexo [Pack 03]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137096.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Estudos de Sexo [Pack 02]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137095.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Estudos de Sexo [Pack 01]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137094.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Trans [Pack 16]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137093.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Trans [Pack 15]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137092.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Trans [Pack 13]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137091.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Trans [Pack 12]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137090.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Trans [Pack 11]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137089.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Trans [Pack 10]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137088.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Trans [Pack 09]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137087.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Trans [Pack 08]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137086.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Trans [Pack 07]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137085.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Trans [Pack 06]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137084.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Trans [Pack 05]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137083.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Trans [Pack 04]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137082.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Trans [Pack 03]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137081.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Trans [Pack 02]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137080.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Trans [Pack 01]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137079.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 15]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137078.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 14]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137077.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 13]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137076.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 12]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137075.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 11]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137074.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 10]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137073.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 09]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137072.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 08]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137071.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 07]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137070.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 06]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137069.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 05]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137068.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 04]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137067.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 03]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137066.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 02]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137065.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 01]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137064.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Somente Anal
+http://eapp11.lat:80/salvadoreneas10/Se2021/137063.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Tudo Anal [Pack 07]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137062.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Tudo Anal [Pack 06]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137061.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Tudo Anal [Pack 05]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137060.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Tudo Anal [Pack 04]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137059.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Tudo Anal [Pack 03]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137058.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Tudo Anal [Pack 02]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137057.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Tudo Anal [Pack 01]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137056.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] A Casa das Brasileirinhas [Pack 05]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137055.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] A Casa das Brasileirinhas [Pack 04]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137054.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] A Casa das Brasileirinhas [Pack 03]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137053.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] A Casa das Brasileirinhas [Pack 02]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137052.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] A Casa das Brasileirinhas [Pack 01]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137051.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 15]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137078.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 14]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137077.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 13]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137076.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 12]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137075.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 11]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137074.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 10]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137073.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 09]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137072.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 08]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137071.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 07]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137070.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 06]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137069.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 05]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137068.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 04]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137067.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 03]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137066.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 02]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137065.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 01]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137064.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Somente Anal
+http://eapp11.lat:80/salvadoreneas10/Se2021/137063.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Tudo Anal [Pack 07]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137062.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Tudo Anal [Pack 06]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137061.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Tudo Anal [Pack 05]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137060.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Tudo Anal [Pack 04]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137059.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Tudo Anal [Pack 03]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137058.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Tudo Anal [Pack 02]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137057.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Tudo Anal [Pack 01]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137056.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] A Casa das Brasileirinhas [Pack 05]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137055.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] A Casa das Brasileirinhas [Pack 04]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137054.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] A Casa das Brasileirinhas [Pack 03]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137053.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] A Casa das Brasileirinhas [Pack 02]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137052.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] A Casa das Brasileirinhas [Pack 01]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137051.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 15]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137078.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 14]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137077.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 13]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137076.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 12]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137075.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 11]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137074.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 10]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137073.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 09]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137072.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 08]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137071.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 07]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137070.ts
+#EXTINF:0 type="stream" channelId="-1" group="Canais @ Adultos (+18)", [24H] [+18] Filmes Adultos [Pack 06]
+http://eapp11.lat:80/salvadoreneas10/Se2021/137069.ts
