@@ -866,3 +866,28 @@ http://eapl5.lat:80/salvadoreneas10/Se2021/136081.m3u8
 http://eapl5.lat:80/salvadoreneas10/Se2021/136082.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="Canais @ Jogos em Destaque" logo="https://imgur.com/a/msy28pK", (09:30) Tottenham x Manchester United
 http://eapl5.lat:80/salvadoreneas10/Se2021/135368.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Canais @ NBA" logo="http://izystc.net:80/images/94d2b46b21835922201f855494b03ee1.png", NBA League Pass 1 FHD
+http://eapl5.lat:80/salvadoreneas10/Se2021/73265.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Canais @ NBA" logo="http://izystc.net:80/images/94d2b46b21835922201f855494b03ee1.png", NBA League Pass 1 HD
+http://eapl5.lat:80/salvadoreneas10/Se2021/73266.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Canais @ NBA" logo="http://izystc.net:80/images/94d2b46b21835922201f855494b03ee1.png", NBA League Pass 2 FHD
+http://eapl5.lat:80/salvadoreneas10/Se2021/73268.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Canais @ NBA" logo="http://izystc.net:80/images/94d2b46b21835922201f855494b03ee1.png", NBA League Pass 2 HD
+http://eapl5.lat:80/salvadoreneas10/Se2021/73269.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Canais @ NBA" logo="http://izystc.net:80/images/94d2b46b21835922201f855494b03ee1.png", NBA League Pass 3 HD
+http://eapl5.lat:80/salvadoreneas10/Se2021/73272.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Canais @ NBA" logo="http://izystc.net:80/images/94d2b46b21835922201f855494b03ee1.png", NBA League Pass 4 HD
+http://eapl5.lat:80/salvadoreneas10/Se2021/73275.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Canais @ NBA" logo="http://izystc.net:80/images/94d2b46b21835922201f855494b03ee1.png", NBA League Pass 5 HD
+http://eapl5.lat:80/salvadoreneas10/Se2021/73278.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Canais @ NBA" logo="http://izystc.net:80/images/94d2b46b21835922201f855494b03ee1.png", NBA League Pass 6 HD
+http://eapl5.lat:80/salvadoreneas10/Se2021/73281.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Canais @ NBA" logo="http://izystc.net:80/images/94d2b46b21835922201f855494b03ee1.png", NBA League Pass 3 FHD
+http://eapl5.lat:80/salvadoreneas10/Se2021/73271.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Canais @ NBA" logo="http://izystc.net:80/images/94d2b46b21835922201f855494b03ee1.png", NBA League Pass 4 FHD
+http://eapl5.lat:80/salvadoreneas10/Se2021/73274.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Canais @ NBA" logo="http://izystc.net:80/images/94d2b46b21835922201f855494b03ee1.png", NBA League Pass 5 FHD
+http://eapl5.lat:80/salvadoreneas10/Se2021/73277.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Canais @ NBA" logo="http://izystc.net:80/images/94d2b46b21835922201f855494b03ee1.png", NBA League Pass 6 FHD
+http://eapl5.lat:80/salvadoreneas10/Se2021/73280.m3u8
+
